@@ -1,0 +1,9 @@
+build
+nbproject
+build.xml
+manifest.mf
+letters_digits_test
+letters_digits_test_label
+letters_digits_train
+letters_digits_train_label
+letters_digits_mapping.txt
